@@ -52,7 +52,7 @@
     },
   
 ],
-  link = [
+  "links" = [
 {"source": "A Big Sky Approach to Cadence Diplomacy", "target": "Mapping the Periphery and Variability of the Magellanic Clouds"},
 {"source": "A Big Sky Approach to Cadence Diplomacy", "target": "Maximizing the Joint Science Return of LSST and DESI"},
 {"source": "A Big Sky Approach to Cadence Diplomacy", "target": "Mini-survey of the northern sky to Dec < +30"},
