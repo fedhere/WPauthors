@@ -3,32 +3,32 @@
     {
       "id": 1,
       "name": "A",
-      "angle":360/10
+      "angle":36
     },
     {
       "id": 2,
       "name": "B",
-      "angle":360/10
+      "angle":36
     },
     {
       "id": 3,
       "name": "C",
-      "angle":360/10
+      "angle":36
     },
     {
       "id": 4,
       "name": "D",
-      "x":360/10
+      "angle":36
     },
     {
       "id": 5,
       "name": "E",
-      "x":360/10
+      "angle":36
     },
     {
       "id": 6,
       "name": "F",
-      "angle":360/10
+      "angle":36
     },
     {
       "id": 7,
