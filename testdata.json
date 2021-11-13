@@ -33,22 +33,22 @@
     {
       "id": 7,
       "name": "G",
-      "angle":360/10
+      "angle":36
     },
     {
       "id": 8,
       "name": "H",
-      "angle":360/10
+      "angle":36
     },
     {
       "id": 9,
       "name": "I",
-      "angle":360/10
+      "angle":36
     },
     {
       "id": 10,
       "name": "J",
-      "angle":360/10
+      "angle":36
     }
   ],
   "links": [
