@@ -2,43 +2,53 @@
   "nodes": [
     {
       "id": 1,
-      "name": "A"
+      "name": "A",
+      "x":0.0
     },
     {
       "id": 2,
-      "name": "B"
+      "name": "B",
+      "x":36.
     },
     {
       "id": 3,
-      "name": "C"
+      "name": "C",
+      "x":72
     },
     {
       "id": 4,
-      "name": "D"
+      "name": "D",
+      "x":108.0
     },
     {
       "id": 5,
-      "name": "E"
+      "name": "E",
+      "x":144.0
     },
     {
       "id": 6,
-      "name": "F"
+      "name": "F",
+      "x":180.0
     },
     {
       "id": 7,
-      "name": "G"
+      "name": "G",
+      "x":216.0
     },
     {
       "id": 8,
-      "name": "H"
+      "name": "H",
+      "x":252.0
     },
     {
       "id": 9,
-      "name": "I"
+      "name": "I",
+      "x":288.0
     },
     {
       "id": 10,
-      "name": "J"
+      "name": "J",
+      "x":324.0
     }
   ],
   "links": [
