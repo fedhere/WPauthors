@@ -3,52 +3,52 @@
     {
       "id": 1,
       "name": "A",
-      "angle":36
+      "x":0
     },
     {
       "id": 2,
       "name": "B",
-      "angle":36
+      "x":36
     },
     {
       "id": 3,
       "name": "C",
-      "angle":36
+      "x":72
     },
     {
       "id": 4,
       "name": "D",
-      "angle":36
+      "x":108
     },
     {
       "id": 5,
       "name": "E",
-      "angle":36
+      "x":144
     },
     {
       "id": 6,
       "name": "F",
-      "angle":36
+      "x":180
     },
     {
       "id": 7,
       "name": "G",
-      "angle":36
+      "x":216
     },
     {
       "id": 8,
       "name": "H",
-      "angle":36
+      "x":252
     },
     {
       "id": 9,
       "name": "I",
-      "angle":36
+      "x":288.0
     },
     {
       "id": 10,
       "name": "J",
-      "angle":36
+      "x":324.0
     }
   ],
   "links": [
