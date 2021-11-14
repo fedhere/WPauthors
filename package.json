@@ -1,0 +1,14 @@
+{
+  "name": "@f7f7156e50925896/rubin-lsst-science-collaborations-cadence-white-paper-by-s",
+  "main": "3a9d15f30115a092@694.js",
+  "version": "694.0.0",
+  "homepage": "https://observablehq.com/@f7f7156e50925896/rubin-lsst-science-collaborations-cadence-white-paper-by-s",
+  "author": {
+    "name": "federica bianco",
+    "url": "https://observablehq.com/@f7f7156e50925896"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
